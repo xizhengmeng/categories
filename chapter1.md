@@ -1,1 +1,4 @@
-# First Chapter
+# chapter1
+
+## 
+- 所谓的计算机科学也就是关于计算的科学
